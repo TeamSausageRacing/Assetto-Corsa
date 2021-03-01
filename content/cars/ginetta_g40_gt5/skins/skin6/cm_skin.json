@@ -1,0 +1,11 @@
+{
+  "carPaint": {
+    "complex": true,
+    "reflection": 0.36,
+    "gloss": 0.623,
+    "specular": 0.29100000000000004,
+    "color": "#FFFFFFFF",
+    "flakes": 0.273,
+    "enabled": true
+  }
+}
